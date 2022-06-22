@@ -10,7 +10,7 @@ Initially, we investigated our datasets to see what we were dealing with and beg
 
 	A brief summary of steps taken:
 * Make copy of data
-o This allows us to protect the original data and to retrace our steps in case of a mistake
+    o This allows us to protect the original data and to retrace our steps in case of a mistake
 * Filter data using various methods including list comprehension
 * Decide what to keep and what to exclude
 * Create functions to clean data 
