@@ -2,7 +2,7 @@
 
 Overview
 
-This project provides a clean set of data for an upcoming hackathon sponsored by Amazing Prime Video. We created an automated ETL pipeline for various large datasets from Kaggle, Movielens, and Wikipedia. We use Python and Pandas for our data-wrangling and then PostgresSQL to store finished data for the participants to use for the event.
+This project provides a clean set of data for an upcoming hackathon sponsored by our partners. We created an automated ETL pipeline for various large datasets from Kaggle, Movielens, and Wikipedia. We use Python and Pandas for our data-wrangling and then PostgresSQL to store finished data for the participants to use for the event.
 
 
 Process
