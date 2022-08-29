@@ -6,6 +6,7 @@ This project provides a clean set of data for an upcoming hackathon sponsored by
 
 
 Process
+
 Initially, we investigated our datasets to see what we were dealing with and began to devise a plan. 
 
 	A brief summary of steps taken:
